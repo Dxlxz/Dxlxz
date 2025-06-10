@@ -1,9 +1,9 @@
-- 👋 Hi, I’m @Dxlxz
-- 👀 I’m interested in reading manga with the genre isekai.
-- 🌱 I’m currently learning C++ and Javascript.
+# About Me
 
+Hello! My name is Dxlxz, and I'm a real person using this GitHub account to track my coding journey.
 
-<!---
-Dxlxz/Dxlxz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 👋 I enjoy reading manga, especially stories in the isekai genre.
+- 🌱 I'm currently learning C++ and JavaScript.
+- 📝 I'm experimenting with small projects to improve my skills and hope to share more soon.
+
+Thanks for visiting!
