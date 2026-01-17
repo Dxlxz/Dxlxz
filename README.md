@@ -1,10 +1,9 @@
-```md
 # 🚀 Dale Jeffrey | Data Scientist & Applied ML Engineer
 
 **I’m a flexible, systems-oriented Data Scientist who adapts across the stack — with strongest depth in Machine Learning, Data Engineering, and production AI systems.**
 
 📍 Malaysia | 🌏 Open to Global / Remote Opportunities  
-📧 **dalejgm01@gmail.com**
+📧 **[dalejgm01@gmail.com](mailto:dalejgm01@gmail.com)**  
 
 [![LinkedIn](https://img.shields.io/badge/Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/dale-jeffrey-gilimon)
 
@@ -12,10 +11,16 @@
 
 ## 👋 Professional Summary
 
-I build **end-to-end data, AI, and software systems** that move from raw data to **deployable, automated, and auditable intelligence**.  
-My work spans **machine learning, data engineering, modern AI (RAG), workflow automation, and full-stack integration**, with a strong emphasis on **real operational environments**.
+I design and build **end-to-end data, AI, and software systems** that move beyond notebooks into **reliable, deployable, and automated workflows**.
 
-I operate across **research, engineering, and delivery**, supporting **external clients, government bodies, and internal teams** with solutions designed for **reliability, scalability, and business impact**.
+My background combines:
+
+- **Machine Learning & statistical modeling**
+- **Data engineering and pipeline design**
+- **Modern AI systems (RAG, vector search, orchestration)**
+- **Full-stack and system integration**
+
+I operate across **research, engineering, and delivery**, supporting **external clients, government bodies, and internal stakeholders** with solutions focused on **robustness, interpretability, scalability, and operational value**.
 
 ---
 
@@ -25,133 +30,153 @@ I operate across **research, engineering, and delivery**, supporting **external 
 *Universiti Malaysia Sabah*
 
 **Relevant Coursework**
+
 - Machine Learning & Artificial Intelligence  
 - Data Mining & Big Data Analytics  
 - Statistical Computing  
 - Database Systems  
-- Big Data & Distributed Systems  
+- Distributed & Big Data Systems  
 - Applied Data Science Projects  
 
 ---
 
 ## 🧠 Core Strengths
 
-- **Machine Learning & Statistical Modeling**
-- **Data Engineering & Pipelines**
-- **Production AI Systems (RAG, Automation, Deployment)**
-- **Full-Stack & System Integration**
+- **Machine Learning** — model development, evaluation, explainability  
+- **Data Engineering** — ETL pipelines, structured & unstructured data  
+- **Production AI Systems** — RAG pipelines, automation, deployment thinking  
+- **System Integration** — full-stack and API-driven architectures  
+
+*(Visualization, GIS, and dashboards are supporting capabilities.)*
 
 ---
 
-## 🛠️ Skills & Technologies
+## 🛠️ Technical Expertise
 
 ### 📊 Data Science & Machine Learning
-- Python, R  
-- scikit-learn, TensorFlow, PyTorch  
-- Supervised & Unsupervised Learning  
-- Feature Engineering & Selection  
-- Model Evaluation, Validation & Tuning  
-- Explainability (SHAP, feature importance)  
-- Time Series Analysis  
-- Predictive & Risk Modeling  
-- Experimental Design & Metrics  
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![R](https://img.shields.io/badge/R-276DC3?style=flat&logo=r&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
+
+- Supervised & unsupervised learning  
+- Feature engineering & selection  
+- Model evaluation, validation & tuning  
+- Explainable AI (SHAP, feature importance)  
+- Time series analysis  
+- Predictive & risk modeling  
+- Experimental design & metrics  
 
 ---
 
 ### 🧱 Data Engineering & AI Systems
-- SQL (Microsoft SQL Server)  
-- MongoDB  
-- ETL / ELT Pipelines  
-- Data Cleaning & Transformation  
-- Vector Databases (Qdrant)  
+
+![SQL](https://img.shields.io/badge/Microsoft%20SQL-CC2927?style=flat&logo=microsoft-sql-server&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
+![Qdrant](https://img.shields.io/badge/Qdrant-000000?style=flat&logo=qdrant&logoColor=white)
+![RAG](https://img.shields.io/badge/RAG-FF6F00?style=flat&logo=openai&logoColor=white)
+![n8n](https://img.shields.io/badge/n8n-FF6F00?style=flat&logo=n8n&logoColor=white)
+
+- ETL / ELT pipeline design  
+- Data cleaning & transformation  
+- Vector databases & semantic retrieval  
 - Retrieval-Augmented Generation (RAG)  
-- Semantic Search & Embeddings  
-- Workflow Orchestration (n8n)  
-- API Integration & Automation  
+- Workflow automation & orchestration  
+- API integration & system automation  
 
 ---
 
 ### 🧠 Advanced AI & LLM Systems
-- RAG Architecture Design  
-- Prompt Engineering  
-- Multi-Agent System Concepts  
-- Knowledge Grounding  
-- LLM Evaluation & Guardrails  
-- Reliability & Failure Handling  
+
+- RAG architecture design  
+- Prompt engineering  
+- Multi-agent system concepts  
+- Knowledge grounding & retrieval  
+- LLM output evaluation  
+- Guardrails & reliability patterns  
 
 ---
 
 ### 🌐 Full-Stack Development & Integration
+
 - JavaScript, TypeScript  
 - React  
 - Node.js  
-- REST API Design  
-- Authentication & Authorization  
-- Frontend–Backend Integration  
-- Data-Driven Web Applications  
+- REST API design  
+- Authentication & authorization  
+- Frontend–backend integration  
+- Data-driven web applications  
 
 ---
 
 ### 🗄️ Backend Platforms & BaaS
+
 - Supabase (PostgreSQL, Auth, Storage)  
 - Firebase (Auth, Firestore)  
-- Serverless Backends  
-- API-First Architecture  
+- Serverless backend architectures  
+- API-first system design  
 
 ---
 
-### 🗺️ Visualization & Geospatial Analytics
-- Power BI, Tableau  
-- ArcGIS  
-- Spatial Data Analysis  
-- Interactive Dashboards  
-- Decision-Support Reporting  
-- Data Storytelling  
+### 🗺️ Visualization & Geospatial Analytics *(Supporting Skills)*
+
+![PowerBI](https://img.shields.io/badge/PowerBI-F2C811?style=flat&logo=powerbi&logoColor=black)
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat&logo=tableau&logoColor=white)
+![ArcGIS](https://img.shields.io/badge/ArcGIS-2C7AB3?style=flat&logo=esri&logoColor=white)
+
+- Interactive dashboards  
+- Decision-support analytics  
+- Spatial data analysis  
+- Data storytelling  
 
 ---
 
 ### ☁️ Cloud, DevOps & Deployment
-- Google Cloud Platform (GCP)  
-- Docker & Containerization  
-- Cloudflare  
-- Netlify  
-- Cloud-Native ML Workflows  
-- Environment Configuration  
-- Scalable Data Infrastructure  
+
+![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=flat&logo=google-cloud&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+
+- Cloud-native ML workflows  
+- Containerized applications  
+- Cloudflare & Netlify deployments  
+- Environment configuration  
+- Scalable data infrastructure  
 
 ---
 
 ### 🧰 Engineering & Professional Skills
-- Git & Version Control  
-- System Design Fundamentals  
-- Software Architecture Thinking  
-- Technical Documentation  
-- Stakeholder Communication  
-- Client-Facing Delivery  
-- Requirements Translation (Business → Technical)  
+
+- Git & version control  
+- System design fundamentals  
+- Software architecture thinking  
+- Technical documentation  
+- Stakeholder & client communication  
+- Translating business requirements into technical solutions  
 
 ---
 
 ## 🔍 Current Focus Areas
 
-- Multi-Agent AI systems for complex workflows  
-- Advanced RAG pipelines with vector databases  
-- Automated data & AI workflows  
-- Production-grade ML & AI systems on cloud platforms  
+- **Multi-Agent AI systems** for complex workflows  
+- **Advanced RAG pipelines** using Qdrant and LLMs  
+- **Automated AI & data workflows** with n8n  
+- **Production-ready ML & AI systems** on cloud platforms  
 
 ---
 
 ## 📊 GitHub Analytics
 
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=Dxlxz&show_icons=true&theme=radical&hide_border=true&include_all_commits=true)](https://github.com/Dxlxz)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Dxlxz&show_icons=true&theme=radical&hide_border=true)
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Dxlxz&layout=compact&theme=radical&hide_border=true)](https://github.com/Dxlxz)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Dxlxz&layout=compact&theme=radical&hide_border=true)
 
 ---
 
 ## 🏆 GitHub Achievements
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=Dxlxz&theme=radical&row=2&column=4&margin-w=15&margin-h=15)](https://github.com/ryo-ma/github-profile-trophy)
+![Trophy](https://github-profile-trophy.vercel.app/?username=Dxlxz&theme=radical&row=2&column=4&margin-w=15&margin-h=15)
 
 ---
 
@@ -161,4 +186,3 @@ I operate across **research, engineering, and delivery**, supporting **external 
 - 📧 **Email**: dalejgm01@gmail.com  
 
 ⭐️ *“Data is a precious thing and will last longer than the systems themselves.”* — Tim Berners-Lee
-```
